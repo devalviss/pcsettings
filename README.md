@@ -5,8 +5,7 @@
 
 ---
 
-# 📦 Flatpak Apps
-
+# 📦 FLATPAK APPS
 Aplicativos instalados via Flatpak:
 
 ```bash
@@ -34,8 +33,7 @@ net.lutris.Lutris
 
 ---
 
-# ⚙️ Pacotes Globais
-
+# ⚙️ PACOTES GLOBAIS
 Pacotes essenciais para produtividade e terminal:
 
 ```bash
@@ -58,8 +56,7 @@ discord lsd gimp krita
 
 ---
 
-# 💻 Terminal Setup
-
+# 💻 TERMINAL SETUP
 ## Oh My Zsh
 
 Instalação do Oh My Zsh:
@@ -101,8 +98,7 @@ Tema utilizado:
 
 ---
 
-# 🧠 IDEs & Desenvolvimento
-
+# 🧠 IDEs & DESENVOLVIMENTO
 ## Visual Studio Code
 
 🔗 [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
@@ -117,8 +113,7 @@ Tema utilizado:
 
 ---
 
-# 🎨 Estética / Rice
-
+# 🎨 ESTÉTICA / RICE
 ## Cursor
 
 ### Bibata Modern Classic
@@ -176,10 +171,13 @@ sudo apt install gnome-tweaks
 * 🧩 Extension Manager
 * 🎛️ GNOME Tweaks
 
+### 🛠️ Extensões
+---
+![alt text](<Screenshot From 2026-05-12 12-12-06.png>)
+
 ---
 
-# 🚀 Resultado Final
-
+# 🚀 RESULTADO FINAL
 ✅ Ambiente moderno \
 ✅ Terminal produtivo \
 ✅ Visual Gruvbox completo \
@@ -188,8 +186,7 @@ sudo apt install gnome-tweaks
 
 ---
 
-# 📌 Observações
-
+# 📌 OBSERVAÇÕES
 * Sistema utilizado: **Qualquer Distro**
 * Shell: **ZSH**
 * Tema do terminal: **Powerlevel10k**
@@ -203,6 +200,14 @@ sudo apt install gnome-tweaks
 
 ---
 
-# 🔥 Preview do Setup
+# 🔥 PREVIEW DO SETUP
 
-> *(adicione aqui screenshots do desktop, terminal e GNOME para deixar o README ainda mais bonito)*
+ 🔳 TERMINAL \
+ ✅ Funcionando com tema e plugins  
+
+![alt text](TERMINAS.png)
+
+---
+
+#💻 APPS
+![alt text](APPS.png)
