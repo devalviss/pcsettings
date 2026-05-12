@@ -209,5 +209,5 @@ sudo apt install gnome-tweaks
 
 ---
 
-#💻 APPS
+💻 APPS
 ![alt text](APPS.png)
