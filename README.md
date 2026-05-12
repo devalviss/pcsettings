@@ -173,7 +173,7 @@ sudo apt install gnome-tweaks
 
 ### 🛠️ Extensões
 ---
-![alt text](<Screenshot From 2026-05-12 12-12-06.png>)
+![alt text](<EXTENSIONS.png>)
 
 ---
 
