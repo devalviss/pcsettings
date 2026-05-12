@@ -38,7 +38,7 @@ Pacotes essenciais para produtividade e terminal:
 
 ```bash
 git zsh btop fastfetch speedtest-cli
-discord lsd gimp krita
+discord lsd gimp krita gh
 ```
 
 ### Ferramentas
