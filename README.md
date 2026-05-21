@@ -203,11 +203,11 @@ sudo apt install gnome-tweaks
 # 🔥 PREVIEW DO SETUP
 
  🔳 TERMINAL \
- ✅ Funcionando com tema e plugins  
+ ✅ Funcionando com tema, plugins e **fastfetch** customizado  
 
-![alt text](TERMINAS.png)
+![TERMINAL](TERMINAS.png)
 
 ---
 
 💻 APPS
-![alt text](APPS.png)
+![APARÊNCIA DOS APPS](APPS.png)
